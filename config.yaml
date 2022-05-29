@@ -1,0 +1,5 @@
+ES_NODES:
+  - https://127.0.0.1:9200
+ES_USERNAME: username
+ES_PASSWORD: password
+ES_CACERT_PATH: /etc/elasticsearch/certs/http_ca.crt
